@@ -1,0 +1,19 @@
+{
+    "notes.1": "This file maps language codes to their respective locations. ",
+    "notes.2": "Each language can be either a directory containing multiple JSON files or a single JSON file.",
+
+    "en_us": {
+        "is_default": true,
+        "enabled": true,
+        "name": "English (US)",
+        "author": "ScarlxtPink",
+        "location": "languages/en_us/"
+    },
+
+    "arr_matey": {
+        "enabled": true,
+        "name": "Pirate Speak (Arr Matey)",
+        "author": "ScarlxtPink",
+        "location": "languages/arr_matey/"
+    }
+}
