@@ -1,0 +1,81 @@
+{
+    "name": "Japanese / plural.json",
+    "description": "Localization strings for the plural system.",
+    "author": "",
+    "version": "1.0",
+    "data": {
+        "plural.autocomplete.no_members": "You have no members...",
+        "plural.autocomplete.no_member_choice": "(No Member)",
+
+        "plural.error.channel_not_found": "Channel not found.",
+        "plural.error.missing_permissions": "I do not have one of the following permissions:\n- {missing}",
+        "plural.error.system_disabled": "Plural system is disabled in this server.\nIf you are an admin, use `/plural enable` to enable it.",
+        "plural.error.dm_failed_send": "Failed to send message: {error}",
+
+        "plural.edit.fetch_failed": "Failed to fetch message with ID {message_id}: {error}",
+        "plural.edit.target_not_found": "Target message not found.",
+        "plural.edit.only_edit_self": "I can only edit messages sent by myself.",
+        "plural.edit.not_plural_message": "The specified message was not sent as a plural member.",
+        "plural.edit.webhook_failure": "Failed to get or create webhook for editing message.",
+        "plural.edit.webhook_failed": "Failed to edit message via webhook",
+        "plural.edit.success": "Message edited successfully.",
+        "plural.edit.failed": "Failed to edit message: {error}",
+
+        "plural.error.server_only": "This command can only be used in a server.",
+        "plural.error.no_permission": "You do not have permission to use this command. (Must have `Administrator`)",
+
+        "plural.system.already_enabled": "Plural system is already enabled in this server.",
+        "plural.error.note_missing_perms": "Note: I do not have one of the following permissions in this channel:\n- {missing}",
+        "plural.system.enabled": "Plural system enabled in this server.",
+        "plural.system.already_disabled": "Plural system is already disabled in this server.",
+        "plural.system.disabled": "Plural system disabled in this server.",
+
+        "plural.create.name_length": "Member name must be between 2 and 52 characters.",
+        "plural.create.exists": "A member with the name `{member}` already exists.\nYou can see them with `/plural member edit {member}`",
+
+        "plural.list.no_members": "You do not have any members",
+        "plural.list.title": "Plural Members",
+
+        "plural.member.not_found": "Member `{member}` not found.",
+        "plural.member.no_members": "You have no plural members.",
+
+        "plural.switch.no_members": "You have no plural members. Use `/plural member create` to create one.",
+        "plural.switch.switched_out": "Switched out (No Member).\nTo use `/p` again you need to switch to a member.",
+        "plural.switch.success": "Switched to member `{member}`.\nUse `/p` to send a message as this member.",
+
+        "plural.avatar.no_avatar": "Member `{member}` does not have an avatar set.",
+        "plural.avatar.title": "Avatar for member `{member}`",
+
+        "plural.logs.no_logs": "You have no logs.",
+        "plural.logs.title": "Plural Configuration Logs",
+
+        "plural.member_view.modal.prefix_suffix.title": "Set Prefix and Suffix",
+        "plural.member_view.modal.prefix.label": "Set the prefix for this member:",
+        "plural.member_view.modal.prefix.placeholder": "Enter prefix here...",
+        "plural.member_view.modal.suffix.label": "Set the suffix for this member:",
+        "plural.member_view.modal.suffix.placeholder": "Enter suffix here...",
+        "plural.member_view.modal.prefix_suffix.confirmation": "Prefix and Suffix updates!\n",
+
+        "plural.member_view.modal.item.title": "Create New Plural Member",
+        "plural.member_view.modal.item.label": "Enter the {type} for the new member:",
+        "plural.member_view.modal.item.currently_set": "Currently Set",
+        "plural.member_view.modal.item.placeholder": "Enter {type} here...",
+        "plural.member_view.modal.item.confirmation": "{type} set!",
+
+        "plural.member_view.button.set_name": "Set Name",
+        "plural.member_view.button.set_avatar": "Set Avatar",
+        "plural.member_view.button.set_description": "Set Description",
+        "plural.member_view.button.set_prefix_suffix": "Set Prefix/Suffix",
+        "plural.member_view.button.create": "Create Member",
+
+        "plural.member_view.embed.title": "New Plural Member Creation",
+        "plural.member_view.embed.avatar.field_name": "Avatar URL",
+        "plural.member_view.embed.avatar.set": "`Is Set!`",
+        "plural.member_view.embed.author": "Name: {member}",
+        "plural.member_view.embed.description.field_name": "Description",
+        "plural.member_view.embed.prefix_suffix.not_set": "Not Set",
+        "plural.member_view.embed.prefix_suffix.field_name": "Prefix/Suffix Usage (Server Only)",
+
+        "plural.member_view.created": "Member `{member}` saved successfully.\nUse `/plural member switch {member}` or `/switch {member}` to switch to this member.\nUse `/plural member edit {member}` to edit this member."
+    }
+}

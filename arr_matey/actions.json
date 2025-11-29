@@ -1,0 +1,100 @@
+{
+    "name": "Arr Matey / actions.json",
+    "description": "Localization strings for the Actions cog (Arr Matey - Pirate speak).",
+    "author": "ScarlxtPink",
+    "version": "1.0",
+    "data": {
+        "actions.description": "Commands fer gettin' into antics and shenanigans.",
+
+        "actions.lurk": "{actor} be lurkin' near {target}...",
+        "actions.shoot": "{actor} fires a blast at {target} with a noisy blunderbuss!",
+        "actions.stare.1": "{actor} glares at {target} with a salty eye.",
+        "actions.stare.2": "{actor} -> 👀 -> {target}",
+        "actions.stare.3": "{actor} be starin' coldly at {target}.",
+
+        "actions.wave.1": "{actor} gives {target} a hearty wave!",
+        "actions.wave.2": "{actor} hollers 'ahoy' at {target}!",
+        "actions.wave.3": "{actor} be wavin' at {target} like a true seadog.",
+
+        "actions.poke.1": "{actor} jabs {target} with a curious finger!",
+        "actions.poke.2": "{actor} gives {target} a playful prod.",
+        "actions.poke.3": "{actor} sneaks a poke at {target}.",
+
+        "actions.peck": "{actor} plants a quick peck on {target}'s cheek.",
+        "actions.wink.1": "{actor} winks at {target} sly-like ;)",
+        "actions.wink.2": "{actor} gives {target} a cheeky wink.",
+        "actions.wink.3": "{actor} shares a knowing wink with {target}.",
+
+        "actions.tickle.1": "{actor} tickles {target} till they squawk!~",
+        "actions.tickle.2": "{actor} sneakily tickles {target} from aft!",
+        "actions.tickle.3": "{actor} gives {target} a gentle ticklin'.",
+        "actions.tickle.4": "{target} can't stop laughin' from {actor}'s tickles!",
+
+        "actions.yeet.1": "{actor} heaves {target} off the plank!",
+        "actions.yeet.2": "{actor} flings {target} like a cannonball!",
+        "actions.yeet.3": "{actor} ABSOLUTELY YEETS {target} overboard.",
+        "actions.yeet.4": "{actor} sends {target} flyin' with brutal force!",
+        "actions.yeet.5": "{target} be sailin' through the air thanks to {actor}!",
+
+        "actions.highfive.1": "{actor} slams a thunderous high-five with {target}!",
+        "actions.highfive.2": "{actor} and {target} clap palms in a perfect high-five.",
+
+        "actions.feed.1": "{actor} feeds {target} a heap o' grub.",
+        "actions.feed.2": "{actor} offers {target} a hearty meal o' victuals.",
+        "actions.feed.3": "{actor} cooks a special sea-stew for {target}.",
+        "actions.feed.4": "{actor} serves {target} a tasty snack. Awwh!~",
+
+        "actions.bite.1": "{actor} takes a chompin' bite outta {target}!",
+        "actions.bite.2": "{actor} nibbles playfully at {target}!",
+        "actions.bite.3": "{actor} gives {target} a gnawin'!",
+        "actions.bite.4": "{target} got a bit o' bite from {actor}",
+
+        "actions.nom": "{actor} noms on {target} like a hungry buccaneer!",
+        "actions.cuddle.1": "{actor} cuddles with {target} <3",
+        "actions.cuddle.2": "{actor} wraps {target} in a warm embrace like a snug hammock.",
+        "actions.cuddle.3": "{actor} snuggles up to {target} like a deckmate.",
+
+        "actions.kick": "{actor} boots {target} with a swift kick!",
+        "actions.hug.1": "{actor} gives {target} a big sea-hug!",
+        "actions.hug.2": "{actor} wraps {target} in a warm embrace.",
+        "actions.hug.3": "{actor} embraces {target} tightly.",
+        "actions.hug.4": "{actor} holds {target} close like kin.",
+
+        "actions.baka.1": "{actor} calls {target} a scurvy baka!",
+        "actions.baka.2": "{actor} calls {target} a daft landlubber!",
+        "actions.baka.3": "\"{target} may be a baka\", says {actor}!",
+
+        "actions.pat.1": "{actor} pats {target} on the noggin.",
+        "actions.pat.2": "{actor} gives {target} a gentle pat on the head.",
+        "actions.pat.3": "{actor} softly pats {target}'s head.",
+        "actions.pat.4": "{actor} gives {target} a reassurin' pat.",
+
+        "actions.kiss.1": "{actor} steals a quick kiss from {target} :* :heart:",
+        "actions.kiss.2": "{actor} gives {target} a romantic kiss.",
+        "actions.kiss.3": "{actor} gently kisses {target} on the brow.",
+        "actions.kiss.4": "{target} be kissed by {actor}! :heart:",
+        "actions.kiss.5": "{actor} smooches {target}",
+        "actions.kiss.6": "<3",
+
+        "actions.dance": "{actor} dances a jig with {target}!",
+        "actions.punch": "{actor} swings a solid punch at {target}!",
+        "actions.handshake.1": "{actor} shakes hands with {target} like a polite pirate.",
+        "actions.handshake.2": "{actor} and {target} share a firm handshake.",
+        "actions.handshake.3": "{actor} greets {target} with a warm handshake.",
+
+        "actions.slap.1": "{actor} slaps {target} with a loud smack!",
+        "actions.slap.2": "{actor} gives {target} a proper slap.",
+        "actions.slap.3": "{target} got slapped by {actor}!",
+
+        "actions.handhold.1": "{actor} holds hands with {target} like deckmates.",
+        "actions.handhold.2": "{actor} takes {target}'s hand in theirs.",
+        "actions.handhold.3": "{actor} and {target} stroll hand in hand.",
+
+        "actions.thumbsup": "{actor} gives {target} a hearty thumbs up!",
+
+        "actions.image.fetch_error": "Arr! I couldn't fetch an image right now. Try again later, matey.",
+        "actions.embed.author": "created with: nekos.best",
+
+        "actions.fallback.verb_template": "{actor} {verb} {target}"
+    }
+}

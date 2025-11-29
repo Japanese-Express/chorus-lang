@@ -32,7 +32,6 @@ Example snippet (actual `language.json` in this repo contains helpful notes):
 
 ```json
 "en_us": {
-  "is_default": true,
   "enabled": true,
   "name": "English (US)",
   "author": "ScarlxtPink",
@@ -45,7 +44,6 @@ Example snippet (actual `language.json` in this repo contains helpful notes):
 1. Create a new directory under `languages/` named with the language code (e.g. `fr_fr/`) or add a single JSON file if you prefer.
 2. Add the translation JSON files (for example `fun.json`, `errors.json`) with the same message keys used in existing languages.
 3. Update `language.json` with a new entry for your language (set `enabled` to `true` when ready).
-4. Optionally, set `is_default` to `true` for the new language if you want it to become the bot's default.
 
 ## Contributing
 

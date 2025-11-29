@@ -1,0 +1,11 @@
+{
+	"name": "English US / random.json",
+	"description": "Localization strings for random image commands (cat, dog, capybara, meme).",
+	"author": "ScarlxtPink",
+	"version": "1.0",
+	"data": {
+        "random.error.fetch_error": "Could not fetch an image ; ({code})",
+        "random.error.api_error": "API Error",
+        "random.error.generic_error": "Could not fetch an image at the moment. Please try again later."
+	}
+}

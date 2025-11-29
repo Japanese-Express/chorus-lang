@@ -1,0 +1,26 @@
+{
+    "name": "Arr Matey / language.json",
+    "description": "This be th' pirate translations for th' `Language` cog o' the bot.",
+    "author": "ScarlxtPink",
+    "version": "1.0",
+    "data": {
+        "language.description": "Commands t' view an' set language preferences fer users an' guilds.",
+
+        "language.view.description": "Show yer current resolved language.",
+        "language.view.resolved": "Language: `{code}` — {title}",
+        "language.title": "Language",
+
+        "language.set.description": "Set language fer a user or guild",
+        "language.set.user.description": "Set yer own language preference (e.g. en_us).",
+        "language.set.guild.description": "Set this guild's default language (Requires Manage Guild).",
+
+        "language.error.not_in_guild": "This command must be used in a guild, ye scallywag!",
+        "language.error.unknown_code": "Unknown language code: `{code}`",
+        "language.error.need_manage_guild": "Ye need Manage Guild t' change th' guild language.",
+        "language.error.failed_set": "Failed t' set language: {error}",
+        "language.error.failed_set_guild": "Failed t' set guild language: {error}",
+
+        "language.set.user.success": "Yer language be set t' `{code}`.",
+        "language.set.guild.success": "Guild language be set t' `{code}`."
+    }
+}

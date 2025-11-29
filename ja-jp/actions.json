@@ -1,0 +1,100 @@
+{
+    "name": "English US / actions.json",
+    "description": "Localization strings for the Actions cog.",
+    "author": "ScarlxtPink",
+    "version": "1.0",
+    "data": {
+        "actions.description": "Commands to perform actions.",
+
+        "actions.lurk": "{actor} lurks near {target}...",
+        "actions.shoot": "{actor} shoots {target}!",
+        "actions.stare.1": "{actor} stares at {target}.",
+        "actions.stare.2": "{actor} -> 👀 -> {target}",
+        "actions.stare.3": "{actor} silently stares at {target}",
+
+        "actions.wave.1": "{actor} waves at {target}!",
+        "actions.wave.2": "{actor} wants to say hi to {target}!",
+        "actions.wave.3": "{actor} is waving at {target}.",
+
+        "actions.poke.1": "{actor} pokes {target}!",
+        "actions.poke.2": "{actor} gives {target} a gentle poke.",
+        "actions.poke.3": "{actor} playfully pokes {target}.",
+
+        "actions.peck": "{actor} gives {target} a peck on the cheek.",
+        "actions.wink.1": "{actor} winks at {target} ;)",
+        "actions.wink.2": "{actor} gives {target} a playful wink.",
+        "actions.wink.3": "{actor} shares a knowing wink with {target}.",
+
+        "actions.tickle.1": "{actor} tickles {target}!~",
+        "actions.tickle.2": "{actor} sneakily tickles {target} from behind!",
+        "actions.tickle.3": "{actor} gives {target} a gentle tickle.",
+        "actions.tickle.4": "{target} can't stop laughing from {actor}'s tickles!",
+
+        "actions.yeet.1": "{actor} yeets {target} across the room!",
+        "actions.yeet.2": "{actor} throws {target} with surprising force!",
+        "actions.yeet.3": "{actor} absolutely YEETS {target}.",
+        "actions.yeet.4": "{actor} sends {target} flying with a powerful throw!",
+        "actions.yeet.5": "{target} goes flying thanks to {actor}!",
+
+        "actions.highfive.1": "{actor} gives {target} a thunderous high-five!",
+        "actions.highfive.2": "{actor} and {target} slap palms in a perfect high-five.",
+
+        "actions.feed.1": "{actor} feeds {target}.",
+        "actions.feed.2": "{actor} gives {target} a delicious meal.",
+        "actions.feed.3": "{actor} prepares a special dish for {target}.",
+        "actions.feed.4": "{actor} serves {target} a tasty snack. Awwh!~",
+
+        "actions.bite.1": "{actor} bites {target}!",
+        "actions.bite.2": "{actor} takes a playful nibble out of {target}!",
+        "actions.bite.3": "{actor} gnaws on {target}!",
+        "actions.bite.4": "{target} was bit by {actor}",
+
+        "actions.nom": "{actor} noms on {target}!",
+        "actions.cuddle.1": "{actor} cuddles with {target} <3",
+        "actions.cuddle.2": "{actor} wraps {target} in a warm embrace.",
+        "actions.cuddle.3": "{actor} snuggles up to {target}.",
+
+        "actions.kick": "{actor} kicks {target}!",
+        "actions.hug.1": "{actor} hugs {target}!",
+        "actions.hug.2": "{actor} gives {target} a warm hug.",
+        "actions.hug.3": "{actor} embraces {target} tightly.",
+        "actions.hug.4": "{actor} wraps {target} in their arms.",
+
+        "actions.baka.1": "{actor} thinks {target} is a baka!",
+        "actions.baka.2": "{actor} calls {target} a silly baka!",
+        "actions.baka.3": "\"{target} may be a baka\", says {actor}!",
+
+        "actions.pat.1": "{actor} pats {target}.",
+        "actions.pat.2": "{actor} gives {target} a gentle pat on the head.",
+        "actions.pat.3": "{actor} softly pats {target}'s head.",
+        "actions.pat.4": "{actor} gives {target} a reassuring pat.",
+
+        "actions.kiss.1": "{actor} steals a quick kiss from {target} :* :heart: ",
+        "actions.kiss.2": "{actor} gives {target} a romantic kiss.",
+        "actions.kiss.3": "{actor} gently kisses {target} on the forehead.",
+        "actions.kiss.4": "{target} gets kissed by {actor}! :heart:",
+        "actions.kiss.5": "{actor} kisses {target}",
+        "actions.kiss.6": "<3",
+
+        "actions.dance": "{actor} dances with {target}!",
+        "actions.punch": "{actor} punches {target}!",
+        "actions.handshake.1": "{actor} shakes hands with {target}.",
+        "actions.handshake.2": "{actor} and {target} share a firm handshake.",
+        "actions.handshake.3": "{actor} greets {target} with a warm handshake.",
+
+        "actions.slap.1": "{actor} slaps {target}!",
+        "actions.slap.2": "{actor} gives {target} a slap.",
+        "actions.slap.3": "{target} got slapped by {actor}!",
+
+        "actions.handhold.1": "{actor} holds hands with {target}.",
+        "actions.handhold.2": "{actor} starts holding {target}'s hand",
+        "actions.handhold.3": "{actor} and {target} walk hand in hand",
+
+        "actions.thumbsup": "{actor} gives {target} a thumbs up!",
+
+        "actions.image.fetch_error": "Sorry, I couldn't fetch an image at the moment. Please try again later.",
+        "actions.embed.author": "created with: nekos.best",
+
+        "actions.fallback.verb_template": "{actor} {verb} {target}"
+    }
+}

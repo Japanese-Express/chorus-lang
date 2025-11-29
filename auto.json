@@ -1,0 +1,17 @@
+{
+    "notes.1": "This file maps language codes to their respective locations. ",
+    "notes.2": "Each language can be either a directory containing multiple JSON files or a single JSON file.",
+    "notes.3": "Each author entry can have multiple authors separated by commas.",
+    "en_us": {
+        "completion_percentage": 100,
+        "changed_percentage": 0
+    },
+    "arr_matey": {
+        "completion_percentage": 100,
+        "changed_percentage": 83
+    },
+    "ja-jp": {
+        "completion_percentage": 100,
+        "changed_percentage": 0
+    }
+}

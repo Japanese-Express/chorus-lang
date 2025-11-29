@@ -40,8 +40,8 @@
         "fun.coinflip.description": "This be th' `/coinflip` command — flip a coin an' see if it be heads or tails.",
         "fun.coinflip.title": "Flip'n th' Coin",
         "fun.coinflip.result": "Th' coin came up {result}!",
-        "fun.coinflip.result.heads": "Th' coin came up Heads, aye!",
-        "fun.coinflip.result.tails": "Th' coin came up Tails, aye!",
+        "fun.coinflip.result.heads": "Th' coin came up Heads",
+        "fun.coinflip.result.tails": "Th' coin came up Tails",
 
         "fun.roll.description": "This be th' `/roll` command — roll X dice o' Y sides each.",
         "fun.roll.error.invalid_format": "Bad format! Use XdY (e.g. 2d6) t' roll.",

@@ -1,0 +1,38 @@
+{
+    "name": "Arr Matey / weather.json",
+    "description": "Localization strings for the Weather cog (Arr Matey - pirate speak).",
+    "author": "ScarlxtPink",
+    "version": "1.0",
+    "data": {
+        "weather.description": "Weather related commands an' settings, fer shipmates.",
+
+        "weather.set.location.invalid_format.title": "Invalid location format, matey!",
+        "weather.set.location.invalid_format.description": "Make sure ye pick a location from the autocomplete suggestions, or ye be lost at sea.",
+
+        "weather.set.location.success.title": "Yer Weather Location Updated",
+        "weather.set.location.success.description": "Yer weather location be set to **{name}**.",
+
+        "weather.error.cooldown": "Ye be spamming the helm. Try again in {retry_after} seconds.",
+        "weather.error.invoke": "A storm o' errors blew in. Try again later, matey.",
+
+        "weather.set.units.success.title": "Yer Weather Settings Updated",
+        "weather.set.units.success.description": "Yer weather units be set to: {units}",
+
+        "weather.not_setup": "Ye haven't set up yer weather yet. Use `/set weather <location>` to set yer spot on the map.",
+        "weather.fetch_error": "Could not fetch weather data, the sea's bein' temperamental.",
+        "weather.unavailable": "Weather data be unavailable at the moment.",
+
+        "weather.embed.title": "{icon} Weather Forecast fer {user}'s Location",
+        "weather.embed.description": "**{temp}{temp_metric}** | Wind: {windspeed} {speed_metric} | Direction: {winddir}°",
+
+        "weather.field.temperature": "Temperature",
+        "weather.field.feels_like": "Feels Like",
+        "weather.field.humidity": "Humidity",
+        "weather.field.precipitation": "Precipitation",
+        "weather.field.snow_depth": "Snow Depth",
+        "weather.field.wind_speed": "Wind Speed",
+        "weather.field.wind_direction": "Wind Direction",
+
+        "weather.footer": "Data provided by Open-Meteo | Powered by Chorus (aye)"
+    }
+}

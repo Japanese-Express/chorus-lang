@@ -1,0 +1,77 @@
+{
+    "data": {
+        "plural.autocomplete.no_members": "Ye've no members, matey...",
+        "plural.autocomplete.no_member_choice": "(No Matey)",
+
+        "plural.error.channel_not_found": "Channel be not found.",
+        "plural.error.missing_permissions": "I be lackin' one o' th' followin' permissions:\n- {missing}",
+        "plural.error.system_disabled": "Th' plural system be disabled in this hold.\nIf ye be an admin, use `/plural enable` t' set it right.",
+        "plural.error.dm_failed_send": "Failed t' send message: {error}",
+
+        "plural.error.server_only": "This command be only fer use in a server, matey.",
+        "plural.error.no_permission": "Ye have no permission t' use this command. (Need `Administrator`)",
+
+        "plural.edit.fetch_failed": "Failed t' fetch message with ID {message_id}: {error}",
+        "plural.edit.target_not_found": "Target message be not found.",
+        "plural.edit.only_edit_self": "I can only alter messages I meself sent.",
+        "plural.edit.not_plural_message": "That message weren't sent as a plural member, yar.",
+        "plural.edit.webhook_failure": "Failed t' get or make a webhook t' edit th' message.",
+        "plural.edit.webhook_failed": "Failed t' edit message via webhook",
+        "plural.edit.success": "Message edited successful-like.",
+        "plural.edit.failed": "Failed t' edit message: {error}",
+
+        "plural.system.already_enabled": "Th' plural system be already enabled in this hold.",
+        "plural.error.note_missing_perms": "Note: I be missin' one o' th' followin' permissions in this channel:\n- {missing}",
+        "plural.system.enabled": "Plural system be enabled in this hold.",
+        "plural.system.already_disabled": "Th' plural system be already disabled in this hold.",
+        "plural.system.disabled": "Plural system be disabled in this hold.",
+
+        "plural.create.name_length": "Member name must be between 2 and 52 charact'rs, ye scallywag.",
+        "plural.create.exists": "A member named `{member}` already exists.\nSee 'em with `/plural member edit {member}`",
+
+        "plural.list.no_members": "Ye do not have any members, matey.",
+        "plural.list.title": "Plural Crew",
+
+        "plural.member.not_found": "Member `{member}` be not found.",
+        "plural.member.no_members": "Ye got no plural members.",
+
+        "plural.switch.no_members": "Ye got no plural members. Use `/plural member create` t' make one.",
+        "plural.switch.switched_out": "Switched out (No Matey).\nT' use `/p` again ye must switch t' a member.",
+        "plural.switch.success": "Switched t' member `{member}`.\nUse `/p` t' send a message as this member.",
+
+        "plural.avatar.no_avatar": "Member `{member}` has no avatar set, arr.",
+        "plural.avatar.title": "Avatar fer member `{member}`",
+
+        "plural.logs.no_logs": "Ye have no logs.",
+        "plural.logs.title": "Plural Configuration Logs",
+
+        "plural.member_view.modal.prefix_suffix.title": "Set th' Prefix an' Suffix",
+        "plural.member_view.modal.prefix.label": "Set th' prefix fer this matey:",
+        "plural.member_view.modal.prefix.placeholder": "Enter prefix here, yar...",
+        "plural.member_view.modal.suffix.label": "Set th' suffix fer this matey:",
+        "plural.member_view.modal.suffix.placeholder": "Enter suffix here, yar...",
+        "plural.member_view.modal.prefix_suffix.confirmation": "Prefix an' Suffix be updated!\n",
+
+        "plural.member_view.modal.item.title": "Create New Plural Matey",
+        "plural.member_view.modal.item.label": "Enter th' {type} fer th' new matey:",
+        "plural.member_view.modal.item.currently_set": "Currently Set",
+        "plural.member_view.modal.item.placeholder": "Enter {type} here...",
+        "plural.member_view.modal.item.confirmation": "{type} be set!",
+
+        "plural.member_view.button.set_name": "Set Name",
+        "plural.member_view.button.set_avatar": "Set Avatar",
+        "plural.member_view.button.set_description": "Set Description",
+        "plural.member_view.button.set_prefix_suffix": "Set Prefix/Suffix",
+        "plural.member_view.button.create": "Create Matey",
+
+        "plural.member_view.embed.title": "New Plural Matey Creation",
+        "plural.member_view.embed.author": "Name: {member}",
+        "plural.member_view.embed.avatar.field_name": "Avatar URL",
+        "plural.member_view.embed.avatar.set": "`Be Set!`",
+        "plural.member_view.embed.description.field_name": "Description",
+        "plural.member_view.embed.prefix_suffix.not_set": "Not Set",
+        "plural.member_view.embed.prefix_suffix.field_name": "Prefix/Suffix Usage (Hold Only)",
+
+        "plural.member_view.created": "Matey `{member}` saved proper-like.\nUse `/plural member switch {member}` or `/switch {member}` t' switch t' this matey.\nUse `/plural member edit {member}` t' edit this matey."
+    }
+}

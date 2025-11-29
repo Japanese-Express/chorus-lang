@@ -3,18 +3,27 @@
     "notes.2": "Each language can be either a directory containing multiple JSON files or a single JSON file.",
     "notes.3": "Each author entry can have multiple authors separated by commas.",
 
+    "default": "en_us",
+
     "en_us": {
-        "is_default": true,
         "enabled": true,
         "name": "English (US)",
-        "author": "ScarlxtPink",
+        "authors": "ScarlxtPink",
         "location": "languages/en_us/"
     },
 
     "arr_matey": {
+        "notes": "Test language, do not edit.",
         "enabled": true,
         "name": "Pirate Speak (Arr Matey)",
-        "author": "ScarlxtPink",
+        "authors": "ScarlxtPink",
         "location": "languages/arr_matey/"
+    },
+
+    "ja-jp": {
+        "enabled": true,
+        "name": "Japanese (Japan)",
+        "authors": "",
+        "location": "languages/ja-jp/"
     }
 }

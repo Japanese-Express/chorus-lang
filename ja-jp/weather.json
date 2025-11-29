@@ -1,0 +1,38 @@
+{
+    "name": "English US / weather.json",
+    "description": "Localization strings for the Weather cog.",
+    "author": "ScarlxtPink",
+    "version": "1.0",
+    "data": {
+        "weather.description": "Weather related commands and settings.",
+
+        "weather.set.location.invalid_format.title": "Invalid location format. Please try again",
+        "weather.set.location.invalid_format.description": "Make sure to select a location from the autocomplete suggestions.",
+
+        "weather.set.location.success.title": "Your Weather Location Updated",
+        "weather.set.location.success.description": "Your weather location has been set to **{name}**.",
+
+        "weather.error.cooldown": "You're doing that too much. Try again in {retry_after} seconds.",
+        "weather.error.invoke": "An error occurred while processing your request. Please try again later.",
+
+        "weather.set.units.success.title": "Your Weather Settings Updated",
+        "weather.set.units.success.description": "Your weather units updated to: {units}",
+
+        "weather.not_setup": "You have not set up your weather settings yet.\nUse `/set weather <location>` to set your location and preferences.",
+        "weather.fetch_error": "Could not fetch weather data.",
+        "weather.unavailable": "Weather data unavailable.",
+
+        "weather.embed.title": "{icon} Weather Forecast for {user}'s Location",
+        "weather.embed.description": "**{temp}{temp_metric}** | Wind: {windspeed} {speed_metric} | Direction: {winddir}°",
+
+        "weather.field.temperature": "Temperature",
+        "weather.field.feels_like": "Feels Like",
+        "weather.field.humidity": "Humidity",
+        "weather.field.precipitation": "Precipitation",
+        "weather.field.snow_depth": "Snow Depth",
+        "weather.field.wind_speed": "Wind Speed",
+        "weather.field.wind_direction": "Wind Direction",
+
+        "weather.footer": "Data provided by Open-Meteo | Powered by Chorus"
+    }
+}

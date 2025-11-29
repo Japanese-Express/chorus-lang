@@ -1,0 +1,11 @@
+{
+	"name": "Arr Matey / random.json",
+	"description": "Pirate-speak translations for random image commands.",
+	"author": "ScarlxtPink",
+	"version": "1.0",
+	"data": {
+		"random.error.fetch_error": "Arr! Couldn' fetch th' image, matey (code: {code})",
+		"random.error.api_error": "Th' API be balkin'!",
+		"random.error.generic_error": "Blimey! Can't fetch th' image right now. Try again later, ye scallywag."
+	}
+}
